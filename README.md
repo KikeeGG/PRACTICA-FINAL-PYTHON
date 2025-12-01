@@ -1,2 +1,3 @@
 # PRACTICA-FINAL-PYTHON
 CRUD final de Python + guardar y cargar datos con pickle
+!! SI SE INTENTA CARGAR DATOS DE CLIENTES SIN EXISTIR ANTES DA ERROR !!
